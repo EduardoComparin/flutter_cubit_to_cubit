@@ -11,15 +11,15 @@
 <p align="center">
   <img 
     src="assets/cubit1.png"
-    width="150"  
+    width="300"  
   />
     <img 
     src="assets/cubit2.png"
-    width="150"  
+    width="300"  
   />
     <img 
     src="assets/cubit3.png"
-    width="150"  
+    width="300"  
   />
 </p>
 
