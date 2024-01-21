@@ -24,6 +24,7 @@ class MainApp extends StatelessWidget {
         BlocProvider<TabBarView3Cubit>(create: (_) => TabBarView3Cubit()),
       ],
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         home: DefaultTabController(
           length: 3,
           child: MultiBlocListener(
