@@ -10,8 +10,16 @@
 
 <p align="center">
   <img 
-    src="cubit_to_cubit.png"
-    width="300"  
+    src="assets/cubit1.png"
+    width="150"  
+  />
+    <img 
+    src="assets/cubit2.png"
+    width="150"  
+  />
+    <img 
+    src="assets/cubit3.png"
+    width="150"  
   />
 </p>
 
